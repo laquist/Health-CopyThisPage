@@ -1,0 +1,21 @@
+/* 
+Logo tekst color #404040
+Logo plus color #32c69a
+Logo font-family 'Montserrat', sans-serif 
+*/
+
+
+/* Tjek om nogle af disse ting kan sættes via bootstrap classes */
+
+#logo span {
+    color: #32c69a;
+}
+
+#logo a {
+    /* font-family: 'Montserrat', sans-serif; */
+
+    text-decoration: none;
+    color: #404040;
+    font-size: 24px;
+    font-weight: 700;
+}
